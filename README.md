@@ -15,6 +15,10 @@ A Python-based Tic Tac Toe game with an AI opponent.
 - Tkinter
 - Minimax Algorithm
 
+## Screenshot
+
+![tictactoe](Screenshot/xoproject.jpeg)
+
 ## How to Run
 
 ```bash
